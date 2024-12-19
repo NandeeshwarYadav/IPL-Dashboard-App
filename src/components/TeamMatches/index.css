@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.page {
+  background-color: #f26d22;
+
+  background-size: cover;
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+}
+.banner-img {
+  list-style-type: none;
+}
+.latest-matches {
+  list-style-type: none;
+
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.recent-matches {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

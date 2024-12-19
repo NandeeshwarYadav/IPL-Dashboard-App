@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.recent-match-page {
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.competingTeamLogo {
+  width: 200px;
+}

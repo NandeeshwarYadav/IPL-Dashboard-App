@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.card {
+  background-color: #0f172a;
+  list-style-type: none;
+  color: #ffffff;
+  width: 350px;
+  height: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree-serif';
+}
+.team-logo {
+  width: 150px;
+  height: 150px;
+}
+.won {
+  font-size: 20px;
+  color: #18ed66;
+}
+.lose {
+  font-size: 20px;
+  color: #e31a1a;
+}
